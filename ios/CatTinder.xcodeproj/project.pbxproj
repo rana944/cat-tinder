@@ -8,12 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* CatTinderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* CatTinderTests.m */; };
+		03C569450F8C41239C326675 /* Nunito-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92727F3CD7834EFA8EF003CA /* Nunito-SemiBold.ttf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-CatTinder.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-CatTinder.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		1ED5E98FD20A46E3BDE85535 /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37A85156FB114D64A642203B /* Nunito-Regular.ttf */; };
+		31B45DF46ED54DC5A054B13A /* Nunito-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FADF9C2EA65D48ED9F952E11 /* Nunito-ExtraBold.ttf */; };
+		691EE742D936417B83C40CC4 /* Nunito-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E0453A15AC040B89DFBAA09 /* Nunito-Light.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-CatTinder-CatTinderTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-CatTinder-CatTinderTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9A443348011A47A3A5654120 /* Nunito-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 059703922D7F4872A27EBE37 /* Nunito-Medium.ttf */; };
+		F60869C79AA042B38FADFB5F /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E68CB4F30ED447B287D6B8AC /* Nunito-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +36,7 @@
 		00E356EE1AD99517003FC87E /* CatTinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatTinderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* CatTinderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CatTinderTests.m; sourceTree = "<group>"; };
+		059703922D7F4872A27EBE37 /* Nunito-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Medium.ttf"; path = "../assets/fonts/Nunito-Medium.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* CatTinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CatTinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = CatTinder/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = CatTinder/AppDelegate.mm; sourceTree = "<group>"; };
@@ -37,13 +44,18 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CatTinder/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CatTinder/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-CatTinder-CatTinderTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CatTinder-CatTinderTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37A85156FB114D64A642203B /* Nunito-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Regular.ttf"; path = "../assets/fonts/Nunito-Regular.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-CatTinder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CatTinder.debug.xcconfig"; path = "Target Support Files/Pods-CatTinder/Pods-CatTinder.debug.xcconfig"; sourceTree = "<group>"; };
+		4E0453A15AC040B89DFBAA09 /* Nunito-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Light.ttf"; path = "../assets/fonts/Nunito-Light.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-CatTinder.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CatTinder.release.xcconfig"; path = "Target Support Files/Pods-CatTinder/Pods-CatTinder.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-CatTinder-CatTinderTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CatTinder-CatTinderTests.debug.xcconfig"; path = "Target Support Files/Pods-CatTinder-CatTinderTests/Pods-CatTinder-CatTinderTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-CatTinder.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CatTinder.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CatTinder/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-CatTinder-CatTinderTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CatTinder-CatTinderTests.release.xcconfig"; path = "Target Support Files/Pods-CatTinder-CatTinderTests/Pods-CatTinder-CatTinderTests.release.xcconfig"; sourceTree = "<group>"; };
+		92727F3CD7834EFA8EF003CA /* Nunito-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-SemiBold.ttf"; path = "../assets/fonts/Nunito-SemiBold.ttf"; sourceTree = "<group>"; };
+		E68CB4F30ED447B287D6B8AC /* Nunito-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-Bold.ttf"; path = "../assets/fonts/Nunito-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FADF9C2EA65D48ED9F952E11 /* Nunito-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Nunito-ExtraBold.ttf"; path = "../assets/fonts/Nunito-ExtraBold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +134,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				E0FA51606C1C42AF9F5E5A4D /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -146,6 +159,20 @@
 				89C6BE57DB24E9ADA2F236DE /* Pods-CatTinder-CatTinderTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		E0FA51606C1C42AF9F5E5A4D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E68CB4F30ED447B287D6B8AC /* Nunito-Bold.ttf */,
+				FADF9C2EA65D48ED9F952E11 /* Nunito-ExtraBold.ttf */,
+				4E0453A15AC040B89DFBAA09 /* Nunito-Light.ttf */,
+				059703922D7F4872A27EBE37 /* Nunito-Medium.ttf */,
+				37A85156FB114D64A642203B /* Nunito-Regular.ttf */,
+				92727F3CD7834EFA8EF003CA /* Nunito-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,6 +271,12 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F60869C79AA042B38FADFB5F /* Nunito-Bold.ttf in Resources */,
+				31B45DF46ED54DC5A054B13A /* Nunito-ExtraBold.ttf in Resources */,
+				691EE742D936417B83C40CC4 /* Nunito-Light.ttf in Resources */,
+				9A443348011A47A3A5654120 /* Nunito-Medium.ttf in Resources */,
+				1ED5E98FD20A46E3BDE85535 /* Nunito-Regular.ttf in Resources */,
+				03C569450F8C41239C326675 /* Nunito-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
